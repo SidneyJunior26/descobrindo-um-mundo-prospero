@@ -1,0 +1,9 @@
+# NUNCA versionar o ebook — este repositório é público e o livro é produto pago.
+*.pdf
+
+# Rascunhos e capturas
+*.png
+*.jpg
+*.jpeg
+.playwright-mcp/
+.DS_Store
